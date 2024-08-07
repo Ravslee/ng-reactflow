@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+// dark
+:root1 {
+    --text-color: #efefef;
+    --background-color: #121212;
+    --node-border-color: #5a5a5a;
+}
+
+:root {
+    --text-color: #121212;
+    --background-color: #efefef;
+    --node-border-color: #a9a9a9;
+    --ngx-ctx-menu-text-color: #111;
+}
